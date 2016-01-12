@@ -21,5 +21,5 @@ The proftpd server configuration can refer to http://www.proftpd.org/docs/exampl
 
 Note
 -----
-This docker may enhance a bit later with supporting environment variable without explict external mounted configuration file. Stay tuned.
+This docker may enhance a bit later with supporting environment variable without explicit external mounted configuration file. Stay tuned.
 
